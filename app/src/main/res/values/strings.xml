@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ContactList</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_new_contact">Tambah Kontak</string>
+    <string name="add_full_name">Nama Lengkap</string>
+    <string name="add_contact_number">Nomor Kontak</string>
+    <string name="save_contact">Simpan Kontak</string>
+    <string name="added_contact">Contact has been added successfully</string>
+    <string name="error">%1$s</string>
+</resources>
